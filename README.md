@@ -8,3 +8,5 @@ Esta é a tradução do CK3, estava cansado de ver as traduções incompletas e 
 - O arquivo languages não precisa ser alterado.
 
 ### Porcentagem da tradução no momento: 0%...
+
+Info: Caso queira apoiar o desenvolvedor e tradutor desse projeto, ou sugerir algo, ou oferecer ajuda envie email para: natanaelferr@hotmail.com
